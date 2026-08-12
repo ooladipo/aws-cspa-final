@@ -29,7 +29,7 @@ A lightweight Node.js tool for detecting common misconfigurations in AWS environ
 
 ### 2. Install
 ```bash
-git clone <your-repo>
+git clone https://github.com/ooladipo/aws-cspa-final.git
 cd aws-cspa
 npm install
 ```
